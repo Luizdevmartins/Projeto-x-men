@@ -1,0 +1,15 @@
+h1{
+    margin: 30;
+    font-size: 22px;
+    padding: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 20;
+    padding: 20;
+}
